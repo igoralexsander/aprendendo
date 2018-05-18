@@ -12,4 +12,4 @@ git config --global user.name "Alexsander" = informando o nome que aparecerar no
 
 git config --global user.email "alexsander.igor01@gmail.com" = informando o email da conta no github
 
-git push origem master = estou enviando os arquivos da pasta origem para a pasta master no servidor do github
+git push origem master = estou enviando os arquivos da pasta origem para a pasta master no servidor do github 
