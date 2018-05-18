@@ -1,0 +1,15 @@
+git init = criar um repositório
+
+git add arquivo = add arquivo a uma fila de espera
+
+git add --all = todas as alterações ele leva para a fila de espera
+
+git commit -m  "Criei meu repositório"  = confirmas as alterações e deixa uma mensagem.
+
+git add remote origem = adicionar pasta ao servidor
+
+git config --global user.name "Alexsander" = informando o nome que aparecerar no github
+
+git config --global user.email "alexsander.igor01@gmail.com" = informando o email da conta no github
+
+git push origem master = estou enviando os arquivos da pasta origem para a pasta master no servidor do github
