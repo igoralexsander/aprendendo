@@ -6,7 +6,7 @@ git add --all = todas as alterações ele leva para a fila de espera
 
 git commit -m  "Criei meu repositório"  = confirmas as alterações e deixa uma mensagem.
 
-git add remote origem = adicionar pasta ao servidor
+git add remote origem URL = adicionar pasta ao servidor
 
 git config --global user.name "Alexsander" = informando o nome que aparecerar no github
 
